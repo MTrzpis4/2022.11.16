@@ -1,0 +1,42 @@
+header{
+    height: 80px;
+    width: 100%;
+    background: lightgreen;
+    font-size: 50px;
+    text-align: center;
+    word-spacing: 50px;
+    display: block;
+}
+footer{
+    position:fixed;
+    bottom: 5px;
+    height: 20px;
+    background-color: black;
+    color: wheat;
+    width: 100%;
+    height: 10%;
+    }
+
+li{
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(16, 196, 196);
+    float: left;
+    display: inline;
+    margin:1px;
+    height:30px;
+    border:1px solid white 
+}
+.a1:hover{
+    border:1px solid rgb(16, 196, 196);
+    color:rgb(16, 196, 196);
+    background-color: white;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none
+
+}
+
+
